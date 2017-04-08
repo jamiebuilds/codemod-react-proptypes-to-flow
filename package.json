@@ -1,0 +1,15 @@
+{
+  "name": "codemod-react-proptypes-to-flow",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thejameskyle/codemod-react-proptypes-to-flow.git",
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2",
+    "jscodeshift": "^0.3.30"
+  }
+}
